@@ -1,0 +1,40 @@
+{
+  "AssetsData": [
+    {
+      "id": 1,
+      "name": null,
+      "brand": null,
+      "supplier": null,
+      "warrant": null,
+      "purchase": null
+    },
+    {
+      "id": 2,
+      "name": null,
+      "brand": null,
+      "supplier": null,
+      "warrant": null,
+      "purchase": null
+    },
+    {
+      "name": null,
+      "brand": null,
+      "supplier": null,
+      "warrant": null,
+      "purchase": null,
+      "id": 3
+    },
+    {
+      "name": null,
+      "brand": null,
+      "supplier": null,
+      "warrant": null,
+      "purchase": null,
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
